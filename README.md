@@ -1,4 +1,4 @@
-# Simple Calculator
+# Simple Calculator using React
 
 This project was made using React.js to improve the knowledges of React.
 
